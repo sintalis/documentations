@@ -11,19 +11,45 @@
         justify-content: center;
         justify-self: center;
         align-self: center;
+        color: white;
+    }
+    .aboutme
+    {
+        display: flex;
+        align-self: center;
+        background-color: aquamarine;
+    }
+    .aboutme > h2
+    {
+        color: cyan;
+    }
+    .aboutme > ol
+    {
+
+    }
+    .aboutme > ol > ul > p
+    {
+        color: white;
     }
 </style>
 </head>
-<body>
-<h1>Welcome to My Website</h1>
-<h2>My name is Sintalis</h2>
-<h4>#About me</h4>
-<p>I am a software enginer. I have been coding for 4 years. I know csharp and a little c++. I am curently learning some reverse enginering</p>
-<br><br>
-<h4>Documentations</h4>
-<p>I have published a few documentations for people learning how to code or just want general help.
-    <br>
-    To find these documentations you will need to go to the <a href="Pages/wiki.html">Wiki</a>
-</p>
+<body style="background-color: rgb(70, 70, 70);">
+<h1>Sintalis Documentations</h1>
+<div class="aboutme">
+    <h2>About me</h2>
+    <p>Here is some intresting facts about me. So you have an brief understanding of what I do</p>
+    <ol>
+        <li>
+            <p>I am a software enginer for the last 4 years</p>
+        </li>
+        <li>
+            <p>I know csharp and a little c++</p>
+        </li>
+        <li>
+            <p>I am learning some reverse enginering</p>
+        </li>
+    </ol>
+</div>
+
 </body>
 </html>
