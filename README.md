@@ -1,2 +1,3 @@
 # documentations
-A website where info about me and my projects are documented.
+On this website I have a intruduction to me and documentations.
+The documentations contains info about my projects and code. You can see how some of my projects are made and how to use them. You can also see all my projects and some info about them. You will also be able to see diffrent courses ive made. These courses will all have a certain structure. The structure will mostly just contain a brief intruduction to the subject. Then some small/short explanations of different subjects. And each new thing you learn will most likely have a link to an actual website to learn it. But maybe you wounder. Why should I use your webbsite then? My webbsite can be used to quickly get into the subject without having to go through a complicated course. Another reason to use it is that im going to create som complex/advanced/longer lectures later on.
